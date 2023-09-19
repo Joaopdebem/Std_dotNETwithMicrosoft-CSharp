@@ -1,0 +1,15 @@
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.csproj.AssemblyReference.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.AssemblyInfoInputs.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.AssemblyInfo.cs
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\bin\Debug\net7.0\002-DepurandoCodigo.exe
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\bin\Debug\net7.0\002-DepurandoCodigo.deps.json
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\bin\Debug\net7.0\002-DepurandoCodigo.runtimeconfig.json
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\bin\Debug\net7.0\002-DepurandoCodigo.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\bin\Debug\net7.0\002-DepurandoCodigo.pdb
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\refint\002-DepurandoCodigo.dll
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.pdb
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\002-DepurandoCodigo.genruntimeconfig.cache
+C:\Users\joaod\OneDrive\Documentos\Developtment\dotNet Microsoft\002-DepurandoCodigo\obj\Debug\net7.0\ref\002-DepurandoCodigo.dll
